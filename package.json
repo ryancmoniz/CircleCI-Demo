@@ -1,0 +1,22 @@
+{
+  "name": "circleci-demo",
+  "version": "1.0.0",
+  "description": "Student presentation demo of CircleCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryancmoniz/CircleCI-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryancmoniz/CircleCI-Demo/issues"
+  },
+  "homepage": "https://github.com/ryancmoniz/CircleCI-Demo#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
